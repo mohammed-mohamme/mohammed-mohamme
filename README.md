@@ -73,7 +73,7 @@ graph TD;
 
 ## **`Connect With Me 📞`**
 
-[<img alt="linkedin" width="40px" src="./Social/linkedin.svg.jpg" align="left" style="padding-right:20px;"/>](https://linkedin.com/in/mo-sa-shaeerah)
+[<img alt="linkedin" width="40px" src="./linkedin.png" align="left" style="padding-right:20px;"/>](https://linkedin.com/in/mo-sa-shaeerah)
 [<img alt="medium" width="40px" src="./Social/medium.svg.jpg" align="left" style="padding-right:20px;"/>](https://medium.com/@Mo_Sa_Shaeerah/)
 [<img alt="twitter" width="40px" src="./Social/twitter.svg.png" align="left" style="padding-right:20px;"/>](https://twitter.com/Mo_Sa_Shaeerah)
 [<img alt="instagram" width="40px" src="./Social/instagram.svg.jpg" align="left" style="padding-right:20px;"/>](https://www.instagram.com/mo_sa_shaeerah/)
