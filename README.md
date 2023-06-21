@@ -4,22 +4,7 @@
 ![Views](https://komarev.com/ghpvc/?username=mohammed-mohamme)
 
 
-**`Machine Learning Engineer • GP Medical Doctor • Write Philosophy & Arab Poetry`**
-
-
-## **`About Me 👓`** 
-
-I'm Mohammed, from Iraq 🇮🇶, currently residing in Egypt, I am a student at Benha Medical College, set to graduate in September 2023.        
-
-- Being flexible and not preferring to restrict my mind to one pathway, I have explored various science fields and found myself falling in love with Data Science & AI.
-- 🌱 As a result, I am now a ML Engineer alongside being a GP Medical Doctor.
-
-Additionally, I possess the ability to write philosophy and Arabic poetry, So I'm a Philosopher & Arab poet 😎.
-
-
-## **`My Target ⚖️`**
-My goal is to apply my skills in Data Science and AI to the medical field while maintaining a harmonious balance between my roles as a Data Scientist and a Medical Doctor.
-
+**`Machine Learning`**
 
 ## **`My Skills 🧑🏻‍💻`**
 1- Data Analysis:
@@ -60,27 +45,10 @@ graph TD;
     Deep-Learning-->Medical-Uses;
    ```
 
-## **`Releted To Me 🪔`**
-👩‍💻 I am currently working as a data scientist intern with ShAI.
-
-🧠 I am continuously expanding my knowledge in data science, AI, and medicine.
-
-👯‍♀️ I am open to collaborations with fellow data scientists.
-
-⚡️ Fun fact: Writing poetry is worth staying up late for.
-<br>
-
-
 ## **`Connect With Me 📞`**
 
 [<img alt="linkedin" width="40px" src="./linkedin.png" align="left" style="padding-right:20px;"/>](https://linkedin.com/in/mo-sa-shaeerah)
-[<img alt="medium" width="40px" src="./Social/medium.svg.jpg" align="left" style="padding-right:20px;"/>](https://medium.com/@Mo_Sa_Shaeerah/)
-[<img alt="twitter" width="40px" src="./Social/twitter.svg.png" align="left" style="padding-right:20px;"/>](https://twitter.com/Mo_Sa_Shaeerah)
-[<img alt="instagram" width="40px" src="./Social/instagram.svg.jpg" align="left" style="padding-right:20px;"/>](https://www.instagram.com/mo_sa_shaeerah/)
-[<img alt="kaggle" width="40px" src="./Social/kaggle.svg.jpg" align="left" style="padding-right:20px;"/>](https://www.kaggle.com/mohammedsalf)
 
-<br/>
-<br/>
 
 
 ## **`My Status In A Graph 🎢`**
